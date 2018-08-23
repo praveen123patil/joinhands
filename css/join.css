@@ -1,0 +1,24 @@
+.navbar {
+	background-color:#33CC00;
+
+}
+
+.jumbotron{
+	height:400px;
+	width:200px;
+
+div {
+  display:inline-block;
+  padding:0px;
+  margin:0px;
+}
+
+body{
+   padding:0px;
+   margin:0px;
+}
+#mynav{
+	background-color: dodgerblue;
+	transition: 0.3s;
+	position:absolute;
+}
