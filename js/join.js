@@ -22,7 +22,11 @@ $(function() {
     $(window).scroll(function() {    
         var scroll = $(window).scrollTop();
         if (scroll >= 10) {
+<<<<<<< HEAD
+            $('#mynav').css("background-color",'#ECF0F1');
+=======
             $('#mynav').css("background-color",'#ff993d');
+>>>>>>> origin/dev
         } else {
             $('#mynav').css("background-color",'#ECF0F1');
         }
@@ -30,3 +34,6 @@ $(function() {
     });
   
 });
+
+
+
